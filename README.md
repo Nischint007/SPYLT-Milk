@@ -21,7 +21,6 @@ This project demonstrates my ability to reverse-engineer modern creative website
 
 ✨ Key Highlights  
 🔁 Scroll-based GSAP timelines crafted from scratch  
-🔧 Responsive design work in progress
 🎯 Micro-interactions and hover effects tailored to match original behavior  
 🛠️ Zero frameworks, 100% handcrafted code  
 
