@@ -1,3 +1,7 @@
+⚠️ **Note**: This project is currently not responsive and is best viewed on desktop screens. Responsive design improvements are in progress and will be updated soon.
+
+Live Website Preview: https://nischint007.github.io/SPYLT-Milk/
+
 🥛 SPYLT Milk — A Bold Frontend Clone with Smooth Scroll and GSAP Magic
 
 A clean, high-fidelity clone of the SPYLT Milk website, fully rebuilt using GSAP, Lenis.js, and Vanilla JavaScript — bringing scroll-based storytelling and rich interaction design to life with hand-coded precision.
